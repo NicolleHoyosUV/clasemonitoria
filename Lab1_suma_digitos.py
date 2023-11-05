@@ -1,4 +1,6 @@
 #Comprovación suma de digitos 
+#Autor: Nicolle Camila Hoyos Puin
+#semestre 1
 import random
 # Bienvenida
 def hola():
