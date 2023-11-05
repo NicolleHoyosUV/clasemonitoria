@@ -1,4 +1,6 @@
 #Cajero Automático
+#Autor: Nicolle Camila Hoyos Puin
+#Semestre 1
 
 #Bienvenida
 def hello():
